@@ -13,7 +13,7 @@ React projects and discord bot creation
 
 - 📫 How to reach me ...
 
-I am currently working on an effective place to reach me. Will be updating news here. 
+I am currently working on a personal website that will have my contact info.  
 
 <!---
 joe88park/joe88park is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
