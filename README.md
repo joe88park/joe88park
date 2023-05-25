@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joe88park
 - 👀 I’m interested in ...
 
-Self-improvement, languages, dining, creation, health, and reading. 
+Self-improvement, languages, dining, health, reading, and writing. 
 
 - 🌱 I’m currently learning ...
 
