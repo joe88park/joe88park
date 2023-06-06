@@ -5,15 +5,15 @@ Self-improvement, languages, dining, health, reading, and writing.
 
 - 🌱 I’m currently learning ...
 
-React.js and Python
+React.js, Tailwind.css, Next.js, cybersecurity, AI Illustration. 
 
 - 💞️ I’m looking to collaborate on ...
 
-React projects and discord bot creation
+Projects for anything listed above under learning
 
 - 📫 How to reach me ...
 
-I am currently working on a personal website that will have my contact info.  
+Not available at this time, please check back later
 
 <!---
 joe88park/joe88park is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
