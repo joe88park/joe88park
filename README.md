@@ -1,21 +1,23 @@
-- 👋 Hi, I’m @joe88park
-- 👀 I’m interested in ...
+Hello there! 🖐 I'm Joe Park (@joe88park)
+Welcome to my GitHub profile! Here’s a bit more about me:
 
-Self-improvement, languages, dining, health, reading, and writing. 
+Web and mobile developer & Business operator an App development agency with senior engineers. 
+Owner @ Vividvista  http://www.vividvista.tech
 
-- 🌱 I’m currently learning ...
+🧐 Interests
 
-React.js, Tailwind.css, Next.js, cybersecurity, AI Illustration. 
+🌱 Current Learning Endeavors
+I’m on a continuous learning journey and currently immersing myself in:
 
-- 💞️ I’m looking to collaborate on ...
+Tech Stack: 
+React.js, Tailwind.css, Next.js. MongoDB Express.js NodeJS Typescript Django
 
-Projects for anything listed above under learning
 
-- 📫 How to reach me ...
+💞️ Collaboration Opportunities
+I’m open to collaborating on various projects that align with my current learning areas. If you have any exciting opportunities or ideas, feel free to reach out!
 
-Not available at this time, please check back later
+📫 Contact Information
+You may contact me at joe@vividvista.tech
 
-<!---
-joe88park/joe88park is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thank you for visiting my profile!
+
